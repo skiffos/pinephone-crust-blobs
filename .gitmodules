@@ -1,0 +1,3 @@
+[submodule "crust-meta"]
+	path = crust-meta
+	url = https://github.com/crust-firmware/meta
