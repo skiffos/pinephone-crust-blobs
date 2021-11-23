@@ -13,7 +13,6 @@ Compilation steps:
 
  - Acquire cross compilers:
    - https://github.com/stffrdhrn/gcc/releases/tag/or1k-10.0.0-20190723
-   - 
  - Or using crossdev:
    - crossdev -t arm-linux-musleabi
    - crossdev -t aarch64-linux-musl
@@ -27,8 +26,7 @@ Compilation steps:
 Compiled from versions:
 
  - arm-trusted-firmware version crust-20210410
- - crust version 23d6d7
- - u-boot crust version c784be4 (2021-04-15)
- - u-boot version 446a832 https://gitlab.com/pine64-org/u-boot
+ - crust version v0.5
+ - u-boot v2020.07: https://megous.com/git/u-boot
 
 [crust-firmware/meta](https://github.com/crust-firmware/meta)
